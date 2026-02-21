@@ -9,9 +9,6 @@ Hello, I'm Mario Roman!
 ---
 * 🎓 I am a **3rd-year Computer Engineering student**.
 * 💻 I am currently **training in Web Application Development**.
-* 📈 I am currently learning:
-  * **React.js**
-  * **Node.js**
 
 * 📫 Contact me via: [mariorota2005@gmail.com](mailto:mariorota2005@gmail.com)
 * 😄 Find me on: [LinkedIn](https://www.linkedin.com/in/marioromansanchez/)
