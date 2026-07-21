@@ -12,7 +12,7 @@ Hello, I'm Mario Roman!
 
 * 📫 Contact me via: [mariorota2005@gmail.com](mailto:mariorota2005@gmail.com)
 * 😄 Find me on: [LinkedIn](https://www.linkedin.com/in/marioromansanchez/)
-* Currently developing: [MicTask](https://mictask.dev)
+* 🚀 Currently developing: [MicTask](https://mictask.dev)
 
 ---
 
