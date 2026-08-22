@@ -7,7 +7,7 @@ Hello, I'm Mario Roman!
 
 ## 📚 About me
 ---
-* 🎓 I am a **3rd-year Computer Engineering student**.
+* 🎓 I am a **4rd-year Computer Engineering student**.
 * 💻 I am currently **training in Web Application Development**.
 
 * 📫 Contact me via: [mariorota2005@gmail.com](mailto:mariorota2005@gmail.com)
@@ -44,4 +44,4 @@ Hello, I'm Mario Roman!
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</p>
+<img src="https://api.iconify.design/logos:claude-icon.svg" alt="claude" width="40" height="40"/></p>
